@@ -1,0 +1,19 @@
+{
+  "estudiante": {
+    "nombre": "Carlos Mendoza",
+    "edad": 21,
+    "matricula": "2021-0345",
+    "activo": true,
+    "promedio": 8.7,
+    "direccion": null,
+    "materias": [
+      "Programación Orientada a Objetos",
+      "Sistemas Operativos",
+      "Lenguajes y Autómatas"
+    ],
+    "contacto": {
+      "email": "carlos.mendoza@ite.edu.mx",
+      "telefono": "646-123-4567"
+    }
+  }
+}
