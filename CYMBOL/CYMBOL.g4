@@ -21,6 +21,7 @@ expr:
 	| '-' expr // unary minus
 	| '!' expr // boolean not
 	| expr '*' expr
+	| expr '/' expr
 	| expr ('+' | '-') expr
 	| expr '==' expr // equality comparison (lowest priority op)
 	| ID // variable reference
